@@ -22,7 +22,7 @@ public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/banking_system";
     private static final String USER = "yourusername";
     private static final String PASSWORD = "yourpassword";
-    // Other connection details
+
 }
 Compile and Run:
 
