@@ -3,9 +3,6 @@ Welcome to the Banking System project! This Java-based application allows you to
 🚀 Getting Started
 Follow these steps to set up and run the project on your local machine:
 
-Clone the Repository:
-
-git clone https://github.com/YourUsername/YourBankingSystemRepo.git
 Compile the Java Code:
 
 javac *.java
